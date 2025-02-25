@@ -32,7 +32,7 @@ cd golden-pallete-co
 
 # Install the dependencies
 npm install
-# Open the AddedItems.js file to ensure assets such as the chef hat icon are correctly linked (They are correctly linked, I wrote this like a year ago, DO NOT TOUCH ANYTHING, UNLESS YOU CAN READ AND KNOW CODE, CHATGPT WILL JUST RUIN IT!)
+# Open the AddedItems.js file to ensure assets such as the chef hat icon are correctly linked (They are correctly linked, I wrote this like a year ago, DO NOT TOUCH ANYTHING, UNLESS YOU CAN READ AND KNOW CODE, CHATGPT WILL JUST RUIN IT!) Otherwise, enjoy, give me feedback and see you guys later.
 
 
 ```
