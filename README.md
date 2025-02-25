@@ -1,6 +1,7 @@
-# MAST5112-PART3
+# golden-pallete-co
 # Project Setup and Installation Guide
 
+    First things first, this is/ was a school project, figured that I might use it cause it got the highest marks in the whole of my class. Enjoy! XD
 Welcome to the Golden Pallete Resturant! Follow the steps below to set up and run the application locally. This README also includes the changelog for recent updates and refactoring.
 
 ## Table of Contents
