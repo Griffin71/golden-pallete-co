@@ -1,4 +1,4 @@
-# golden-pallete-co
+# golden-pallete-co v1.3
 # Project Setup and Installation Guide
 
     First things first, this is/ was a school project, figured that I might use it cause it got the highest marks in the whole of my class. Enjoy! XD
@@ -18,19 +18,19 @@ To get started with the project, follow these steps:
 
 ```bash
 # Clone the repository
-git clone github.com/ST10450068/MAST5112-PART3
+git clone https://github.com/Griffin71/golden-pallete-co
 
 # Navigate to the project directory
-cd project_directory
+cd golden-pallete-co
 
 # Install the dependencies
 npm install
-# Open the AddedItems.js file to ensure assets such as the chef hat icon are correctly linked
+# Open the AddedItems.js file to ensure assets such as the chef hat icon are correctly linked (They are correctly linked, I wrote this like a year ago, DO NOT TOUCH ANYTHING, UNLESS YOU CAN READ AND KNOW CODE, CHATGPT WILL JUST RUIN IT!)
 
 
 ```
 **Important**: Make sure all dependencies are installed before running the app.
-*Note*: If you encounter any issues, feel free to open an issue.
+*Note*: If you encounter any issues, feel free to open an issue @ :kabelosamkelo19@gmail.com/ or my Github: [Griffin71.](https://github.com/Griffin71)
 ---
 ## Screenshots:
 ![Screenshot 2024-11-22 103510](https://github.com/user-attachments/assets/917bcd4d-473f-4000-8448-ddcc41ecd2b8)
@@ -43,8 +43,8 @@ npm install
 
 
 ## Changelog
-Part 3 Changes (Refactoring and Updates)
-Here’s a list of all the changes made since Part 2 and the additional refactorings:
+V1.3 Changes (Refactoring and Updates)
+Here’s a list of all the changes made since v1.1-1.2 and the additional refactorings:
 ---
 
 ### New Features:
@@ -67,7 +67,7 @@ Here’s a list of all the changes made since Part 2 and the additional refactor
 
 - **Griffin (aka Kabelo Kgosana)**: Lead Developer & Contributor
 
-I truly appreciate ymy efforts in making this project better!
+I truly appreciate my efforts in making this project better! and my instagram is: [okaygriffy.](https://www.instagram.com/okaygriffy/)
 
 ## License
 
