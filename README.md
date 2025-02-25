@@ -23,6 +23,13 @@ git clone https://github.com/Griffin71/golden-pallete-co
 # Navigate to the project directory
 cd golden-pallete-co
 
+# Navigate to the project directory (additional)
+cd golden-pallete-co (1)
+
+# Navigate to the project directory (Root)
+cd golden-pallete-co
+
+
 # Install the dependencies
 npm install
 # Open the AddedItems.js file to ensure assets such as the chef hat icon are correctly linked (They are correctly linked, I wrote this like a year ago, DO NOT TOUCH ANYTHING, UNLESS YOU CAN READ AND KNOW CODE, CHATGPT WILL JUST RUIN IT!)
