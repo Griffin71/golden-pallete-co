@@ -24,7 +24,7 @@ git clone https://github.com/Griffin71/golden-pallete-co
 cd golden-pallete-co
 
 # Navigate to the project directory (additional)
-cd golden-pallete-co (1)
+cd golden-pallete-co 
 
 # Navigate to the project directory (Root)
 cd golden-pallete-co
